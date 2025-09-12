@@ -96,11 +96,8 @@ This project uses ESLint for code quality. To run linting:
 ```bash
 npx eslint src/
 ```
-Configure ESLint rules in `eslint.config.js`.
+Configure ESLint rules in `eslint.config.ts`.
 
-## Sample Demo Page
-
-The boilerplate includes a demo page with a button. When you click "Say Hello", it displays a message using TypeScript and TailwindCSS styling. You can extend this page using any of the included libraries, such as Lucide for icons, Anime.js or GSAP for animations, and Markdown parsers for rich content.
 
 ## Useful Links
 - [TailwindCSS Documentation](https://tailwindcss.com/docs)
@@ -121,4 +118,6 @@ The boilerplate includes a demo page with a button. When you click "Say Hello", 
 - [Vitest Documentation](https://vitest.dev/)
 
 ## License
-MIT
+
+This project is licensed as MIT. See [LICENSE](LICENSE) file for full details.
+
