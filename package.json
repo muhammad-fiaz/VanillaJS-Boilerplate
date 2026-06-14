@@ -38,11 +38,11 @@
     "sass": "^1.97.3",
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.56.1",
-    "vite": "^7.3.2",
+    "vite": "^8.0.16",
     "vitest": "^4.1.0"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.2.1",
+    "@tailwindcss/vite": "^4.3.1",
     "animejs": "^4.3.6",
     "axios": "^1.16.0",
     "date-fns": "^4.1.0",
